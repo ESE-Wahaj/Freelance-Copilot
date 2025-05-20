@@ -70,7 +70,7 @@ A professional, lightweight **Client Management System (Mini-CRM)** built with *
 
 | Component | Technology |
 |-----------|------------|
-| **Backend Framework** | Laravel 11 |
+| **Backend Framework** | Laravel 12 |
 | **Frontend** | Bootstrap 5, Blade Templates |
 | **Database** | MySQL |
 | **PDF Generation** | DomPDF Package |
